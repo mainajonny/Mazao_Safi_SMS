@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 public class SplashActivity extends AppCompatActivity {
+    final public static int MY_PERMISSION_SEND_SMS = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
