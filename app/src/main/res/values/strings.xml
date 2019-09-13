@@ -3,4 +3,6 @@
     <string name="resetbtn">Reset</string>
     <string name="sendbtn">Send</string>
     <string name="type_message_here">Type message here</string>
+    <string name="to_farmers">To Farmers</string>
+    <string name="to_customers">To Customers</string>
 </resources>
